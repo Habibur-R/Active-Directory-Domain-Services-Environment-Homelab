@@ -1,5 +1,5 @@
 # Active-Directory-Domain-Services-Environment-Homelab
-##Understanding of Active Directory Domain Services by simulating a business environment## 
+## Understanding of Active Directory Domain Services by simulating a business environment## 
 
 The aim of this project is to gain a working understanding of Active Directory Domain Services by simulating a business environment with the resources at hand.
 

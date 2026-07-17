@@ -44,10 +44,6 @@ Installed a secondary domain controller and assigned static IP and preferred DNS
 
 <img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-25-53" src="https://github.com/user-attachments/assets/06a7c9eb-1d79-440a-b99e-f387943d79bd" />
 
-<img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-32-37" src="https://github.com/user-attachments/assets/94496c80-9bdd-40a2-b89a-8034e33d70f4" />
-
-<img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-32-56" src="https://github.com/user-attachments/assets/4e803b99-4e97-4781-8720-d0a1ebc252f2" />
-
 <img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-38-45" src="https://github.com/user-attachments/assets/6de647ad-c345-48ad-b809-638cd384ce1d" />
 
 <img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-39-01" src="https://github.com/user-attachments/assets/3b2671d2-dfbf-4232-8109-fde6fde26cd1" />

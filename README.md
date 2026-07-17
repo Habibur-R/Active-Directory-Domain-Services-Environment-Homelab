@@ -32,7 +32,15 @@ Installed and set-up windows server ISO, installed active directory domain servi
 
 Installed a secondary domain controller and assigned static IP and preferred DNS addresses:
 
+<img width="1734" height="1125" alt="Screenshot From 2026-07-17 16-17-07" src="https://github.com/user-attachments/assets/6c2f3f84-14f6-4bbf-8a01-5195639e8f76" />
+
+<img width="1734" height="1125" alt="Screenshot From 2026-07-17 16-18-34" src="https://github.com/user-attachments/assets/69007057-cee9-4ec6-b9e4-f08459175925" />
+
+Created organisational units, users and established group policy:
+
 <img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-10-58" src="https://github.com/user-attachments/assets/e273b4d3-e3fa-492e-a817-0be27c35802a" />
+
+<img width="1736" height="1178" alt="Screenshot From 2026-07-17 16-08-27" src="https://github.com/user-attachments/assets/e47831ca-7dc7-4e7a-9dd0-bf001679e9df" />
 
 <img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-14-43" src="https://github.com/user-attachments/assets/84b948ab-d0fb-411b-8aa0-789642ffcbf5" />
 

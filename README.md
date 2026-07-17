@@ -16,7 +16,7 @@ The project itself was carried out on a Linux virtualisation server utilising QE
 
 <img width="2086" height="1214" alt="Screenshot From 2026-07-16 23-50-08" src="https://github.com/user-attachments/assets/c453954b-5ed6-4e47-a671-52f81885c3f2" />
 
-Installed and set-up windows server ISO, installed active directory domain services, establsihed a domain, promoted server to domain controller, assigned static IP address and preferred DNS to Domain controller:
+Installed and set-up windows server ISO, installed active directory domain services, established a domain, promoted server to domain controller, assigned static IP and preferred DNS addresses of the Domain controller:
 
 <img width="2560" height="1440" alt="Screenshot From 2026-05-14 23-09-35" src="https://github.com/user-attachments/assets/24c2cd6d-4933-4a06-8a04-48e0379f4b6b" /> 
 

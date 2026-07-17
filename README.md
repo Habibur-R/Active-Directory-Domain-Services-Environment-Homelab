@@ -42,17 +42,23 @@ Created organisational units, users and established group policy:
 
 <img width="1736" height="1178" alt="Screenshot From 2026-07-17 16-08-27" src="https://github.com/user-attachments/assets/e47831ca-7dc7-4e7a-9dd0-bf001679e9df" />
 
-Configured a windows server and installed the file server role, assigned static IP and preferred DNS addresses,implemented a hard disk image .VHD for the shared drive, created a shared drive, enabled sharing, created folders, files and security groups:
+Configured a windows server and installed the file server role, assigned static IP and preferred DNS addresses, implemented a hard disk image .VHD for the shared drive, created a shared drive, enabled sharing, created folders, files and security groups:
 
 <img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-14-43" src="https://github.com/user-attachments/assets/84b948ab-d0fb-411b-8aa0-789642ffcbf5" />
+
+<img width="1734" height="1125" alt="Screenshot From 2026-07-17 16-29-42" src="https://github.com/user-attachments/assets/d1bf7876-7d5d-4c58-bc64-04642e3c92a3" />
+
+<img width="1258" height="868" alt="Screenshot From 2026-06-13 15-40-59" src="https://github.com/user-attachments/assets/ebef4a43-2d41-4324-8d2e-fb29d783b5aa" />
 
 <img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-24-54" src="https://github.com/user-attachments/assets/a7bb97f3-dbd2-4341-a467-b61bb4bc1973" />
 
 <img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-17-07" src="https://github.com/user-attachments/assets/05cce4a5-acdf-4d34-9ee5-16c429501f4a" />
 
-<img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-22-40" src="https://github.com/user-attachments/assets/dad135cd-0b38-470e-80ee-20fcb260d80e" />
+<img width="1734" height="1125" alt="Screenshot From 2026-07-17 16-37-47" src="https://github.com/user-attachments/assets/f7410dde-4579-4689-b198-d09be85f8d0f" />
 
-<img width="1734" height="1125" alt="Screenshot From 2026-07-17 16-29-42" src="https://github.com/user-attachments/assets/d1bf7876-7d5d-4c58-bc64-04642e3c92a3" />
+Installed windows 11 and logged on to the marketing executive user account, joined the Marketing Executive user account to the domain controller, assigned static IP and preferred DNS addresses, mapped network drive to access shared drive, able to access folders and files when permitted, if not permitted an error occurs, the same steps were carried out for the other user accounts:
+
+<img width="2086" height="1214" alt="Screenshot From 2026-07-16 23-46-10" src="https://github.com/user-attachments/assets/e183afe9-654e-43a8-8fde-fca0db4e1729" />
 
 <img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-38-45" src="https://github.com/user-attachments/assets/6de647ad-c345-48ad-b809-638cd384ce1d" />
 
@@ -61,6 +67,3 @@ Configured a windows server and installed the file server role, assigned static 
 <img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-39-01" src="https://github.com/user-attachments/assets/3b2671d2-dfbf-4232-8109-fde6fde26cd1" />
 
 <img width="1738" height="1120" alt="Screenshot From 2026-07-16 23-39-16" src="https://github.com/user-attachments/assets/73dd0466-fa0f-4aa8-9762-e70e87e01e7f" />
-
-<img width="2086" height="1214" alt="Screenshot From 2026-07-16 23-46-10" src="https://github.com/user-attachments/assets/e183afe9-654e-43a8-8fde-fca0db4e1729" />
-
